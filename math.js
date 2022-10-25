@@ -20,3 +20,4 @@ var individualPrice=totalPrice1/quantity;
 console.log("div====>",individualPrice);
 var remainder=totalPrice1 %quantity;
 console.log("remainder====>",remainder);
+
